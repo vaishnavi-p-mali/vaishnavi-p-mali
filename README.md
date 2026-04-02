@@ -1,3 +1,4 @@
+![Typing](https://readme-typing-svg.herokuapp.com?lines=Java+Developer;Full+Stack+Learner)
 # 👋 Hi, I'm Vaishnavi
 
 ## 💻 Java Developer
@@ -15,3 +16,5 @@
 
 ## 📫 Contact
 - Email: malivaishnavi38255@gmail.com
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=vaishnavi-p-mali&show_icons=true)
