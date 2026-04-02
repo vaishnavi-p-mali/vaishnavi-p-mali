@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Vaishnavi
 
-<!--
-**vaishnavi-p-mali/vaishnavi-p-mali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Java Developer
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+- 🌱 Learning Java & Spring Boot
+- 💡 Interested in Web Development
+- 🎯 Goal: Become Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Java
+- HTML
+- CSS
+- JavaScript
+
+## 📫 Contact
+- Email: malivaishnavi38255@gmail.com
