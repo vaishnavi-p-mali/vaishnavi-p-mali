@@ -1,8 +1,3 @@
-<!-- 🔝 Banner Image -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" />
-</p>
-
 <!-- 🔥 Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=👋+Hey+I'm+Vaishnavi+Mali;💻+Aspiring+Full+Stack+Java+Developer;🚀+Future+Software+Engineer" />
@@ -20,7 +15,7 @@
 
 ## 🌸 About Me
 
-<img align="right" height="150" src="https://www.linkedin.com/posts/phitron_computer-science-grads-and-students-listen-activity-7198319887000215552-nuio" />
+<img align="right" height="150" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 - 🌱 Learning Java & Spring Boot  
 - 💡 Interested in backend & web development  
@@ -52,21 +47,16 @@
 
 ---
 
-## 🏆 Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=vaishnavi-p-mali&theme=tokyonight" />
-
----
-
-## 👀 Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=vaishnavi-p-mali&label=Profile%20Views&color=blue" />
-
----
-
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vaishnavi-mali-a690303a7)
+<p align="center">
+  <a href="https://www.linkedin.com/in/vaishnavi-mali-a690303a7" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:malivaishnavi38255@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
