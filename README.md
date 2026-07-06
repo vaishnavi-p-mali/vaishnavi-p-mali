@@ -1,32 +1,33 @@
-<!-- Banner Image -->
+<!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="./assets/github-banner.png" alt="Java Full Stack Developer Banner" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=👋+Hey+I'm+Vaishnavi+Mali;💻+Aspiring+Full+Stack+Java+Developer;🚀+Future+Software+Engineer" />
 </p>
+
+---
 
 # 👋 Hi, I'm Vaishnavi Mali
 
-💻 **Aspiring Full Stack Java Developer** passionate about building real-world applications.  
-🚀 Currently learning **Java, Spring Boot, and Web Development.**  
-🎯 Focused on becoming a skilled Software Engineer.
+💻 Aspiring Full Stack Java Developer passionate about building real-world applications.  
+🚀 Currently learning Java, Spring Boot, and web development.  
+🎯 Focused on becoming a skilled software engineer.
 
 ---
 
 ## 🌸 About Me
 
-<img align="right" height="170" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" height="150" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-- 🌱 Learning Java & Spring Boot
-- 💡 Interested in Backend Development
-- 📚 Solving coding problems every day
-- 🚀 Building projects to improve my skills
-- ⚡ Passionate about technology and creativity
+- 🌱 Learning Java & Spring Boot  
+- 💡 Interested in backend & web development  
+- 📚 Improving coding & problem-solving daily  
+- ⚡ Love creativity and technology  
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,html,css,js,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,vscode" />
 </p>
 
 ---
@@ -34,35 +35,29 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vaishnavi-p-mali&show_icons=true&theme=tokyonight" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi-p-mali&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavi-p-mali&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi-p-mali&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 
-<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavi-p-mali&theme=tokyo-night" />
-</p>
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/vaishnavi-mali-a690303a7">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:malivaishnavi38255@gmail.com">
-<img src="https://img.shields.io/badge/Email-Send-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/vaishnavi-mali-a690303a7" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:malivaishnavi38255@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
+<h3 align="center">✨ Thank you for visiting my profile ✨</h3> 
