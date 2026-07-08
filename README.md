@@ -15,8 +15,6 @@
 
 ## 🌸 About Me
 
-<img align="right" height="150" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
-
 - 🌱 Learning Java & Spring Boot  
 - 💡 Interested in backend & web development  
 - 📚 Improving coding & problem-solving daily  
@@ -27,7 +25,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,vscode" />
 </p>
 
 ---
@@ -60,4 +58,4 @@
 
 ---
 
-<h3 align="center">✨ Thank you for visiting my profile ✨</h3> 
+<h3 align="center">✨ Thank you for visiting my profile ✨</h3> this is my github readme in this code i want to change image and add above image in this code give me updated code
